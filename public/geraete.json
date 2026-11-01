@@ -1,0 +1,17 @@
+[
+  { "id": "nb-01", "name": "Notebook Lenovo T14", "kategorie": "Notebook", "standort": "Schrank A", "beschreibung": "Robustes Notebook für Programmierung und Büroarbeiten." },
+  { "id": "nb-02", "name": "Notebook Dell Latitude 5440", "kategorie": "Notebook", "standort": "Schrank A", "beschreibung": "Mobiler Arbeitsplatz mit USB-C-Anschluss für externe Bildschirme." },
+  { "id": "nb-03", "name": "Notebook HP ProBook 450", "kategorie": "Notebook", "standort": "Schrank A", "beschreibung": "Notebook mit großem Bildschirm für Gruppenprojekte." },
+  { "id": "nb-04", "name": "Notebook Acer TravelMate P2", "kategorie": "Notebook", "standort": "Schrank A", "beschreibung": "Leichtes Notebook für Präsentationen und Recherche." },
+  { "id": "nb-05", "name": "Notebook Framework 13", "kategorie": "Notebook", "standort": "Schrank A", "beschreibung": "Modulares Notebook zum Arbeiten und Erkunden austauschbarer Hardware." },
+  { "id": "be-01", "name": "Beamer Epson EB-W49", "kategorie": "Beamer", "standort": "Schrank B", "beschreibung": "Heller Beamer für Präsentationen im Unterrichtsraum." },
+  { "id": "be-02", "name": "Beamer BenQ MW560", "kategorie": "Beamer", "standort": "Schrank B", "beschreibung": "Kompakter Beamer mit HDMI-Eingang für Projektvorstellungen." },
+  { "id": "be-03", "name": "Beamer Acer X1328", "kategorie": "Beamer", "standort": "Schrank B", "beschreibung": "Transportabler Beamer mit Tragetasche für wechselnde Räume." },
+  { "id": "au-01", "name": "USB-Headset Jabra Evolve 20", "kategorie": "Audio", "standort": "Schrank C", "beschreibung": "Headset mit Mikrofon für Videokonferenzen und Sprachaufnahmen." },
+  { "id": "au-02", "name": "Mikrofon Rode NT-USB Mini", "kategorie": "Audio", "standort": "Schrank C", "beschreibung": "USB-Tischmikrofon für Podcasts und Erklärvideos." },
+  { "id": "au-03", "name": "Lautsprecher Logitech Z200", "kategorie": "Audio", "standort": "Schrank C", "beschreibung": "Aktives Lautsprecherpaar für Tonwiedergabe am Arbeitsplatz." },
+  { "id": "au-04", "name": "Audiorecorder Zoom H1n", "kategorie": "Audio", "standort": "Schrank C", "beschreibung": "Handlicher Recorder für Interviews und Umgebungsaufnahmen." },
+  { "id": "ka-01", "name": "Kamera Canon EOS 250D", "kategorie": "Kamera", "standort": "Schrank D", "beschreibung": "Digitale Spiegelreflexkamera für Fotos und kurze Videoprojekte." },
+  { "id": "ka-02", "name": "Webcam Logitech C920", "kategorie": "Kamera", "standort": "Schrank D", "beschreibung": "USB-Webcam für Videokonferenzen und Bildschirmvorträge." },
+  { "id": "ka-03", "name": "Kamera Sony ZV-1", "kategorie": "Kamera", "standort": "Schrank D", "beschreibung": "Kompakte Videokamera für Produktvorstellungen und Tutorials." }
+]
